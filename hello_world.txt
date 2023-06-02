@@ -1,1 +1,3 @@
 Some text
+
+Test to see if vscode is the default text editor for commit messages
